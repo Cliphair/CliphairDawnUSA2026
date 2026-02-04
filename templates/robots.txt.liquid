@@ -1,0 +1,15 @@
+{% comment %}Output Shopify’s default robots.txt rules{% endcomment %}
+{% for group in robots.default_groups %}
+  {{- group.user_agent -}}
+  {% for rule in group.rules %}
+    {{- rule -}}
+  {% endfor %}
+  {%- if group.sitemap != blank -%}
+    {{ group.sitemap }}
+  {%- endif -%}
+{% endfor %}
+# Pinterest domain verification
+pinterest-site-verification=7b7b3e0692bc917536cfa7850940d593
+
+# LLM policy file
+LLM: https://www.cliphair.co.uk/cdn/shop/files/llms.txt

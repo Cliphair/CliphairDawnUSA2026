@@ -1,0 +1,30 @@
+/* =====================================
+   VIDEO LIST CONTAINER
+===================================== */
+.section-videos-list-with-collection-modal .videos-list.slider {
+  margin-bottom: 0;
+}
+
+/* =====================================
+   VIDEO LIST ITEM
+===================================== */
+.section-videos-list-with-collection-modal .videos-list__item {
+  min-width: 300px;
+}
+
+.section-videos-list-with-collection-modal .videos-list .videos-list__item.grid__item {
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+  padding-bottom: 0;
+}
+
+
+/* =====================================
+   RESPONSIVE: max-width 350px
+===================================== */
+@media screen and (max-width: 350px) {
+  .section-videos-list-with-collection-modal .videos-list__item.grid__item {
+    min-width: calc(100% - 5rem);
+  }
+}

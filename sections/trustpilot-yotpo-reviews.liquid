@@ -1,0 +1,163 @@
+{{ 'section-trustpilot-yotpo-reviews.css' | asset_url | stylesheet_tag }}
+
+{% style %}
+  .section-trutpilot-yotpo{
+    --star_color: {{ section.settings.star_color }};
+  }
+
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+{% endstyle %}
+
+{% liquid
+  assign turstpilot_logo = images['trustpilot-logo.png']
+  assign yotpo_logo = images['yotpo-logo.png']
+  assign yotpo_page = pages.testimonials
+%}
+
+<div class="color-{{ section.settings.color_scheme }} gradient section-{{ section.id }}-padding">
+  <div class="{{ section.settings.text_allignment }}">
+    <div class="title-wrapper--no-top-margin page-width ">
+      {% if section.settings.title != blank %}
+        <h2
+          id="SectionHeading-{{ section.id }}"
+          class="inline-richtext {{ section.settings.heading_size }}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}{% if section.settings.title == blank %} capitalize{% endif %}"
+        >
+          {{ section.settings.title }}
+        </h2>
+      {% endif %}
+    </div>
+
+    <div class="reviews-container">
+      <a
+        href="https://uk.trustpilot.com/review/cliphair.co.uk"
+        target="_blank"
+        class="trustpilot-review review tooltip"
+      >
+        <div class="trustpilot-stars stars">
+          {% for i in (1..5) %}
+            <span class="trustpilot-star star icon filled">{% render 'icon-star' %}</span>
+          {% endfor %}
+        </div>
+
+        {{ turstpilot_logo | image_url: width: 150 | image_tag: preload: false }}
+        <span class="tooltiptext"><span class="trustpilot-score">0</span> out of 5 start rating on Trustpilot</span>
+      </a>
+
+      <span class="separator"></span>
+
+      <a href="{{ yotpo_page.url }}" target="_blank" class="yotpo-review review tooltip">
+        <div class="yotpo-stars stars">
+          {% for i in (1..5) %}
+            <span class="yotpo-star star icon filled">{% render 'icon-star' %}</span>
+          {% endfor %}
+        </div>
+        {{ yotpo_logo | image_url: width: 150 | image_tag: preload: false }}
+        <span class="tooltiptext"><span class="yotpo-score">0</span> out of 5 start rating on Yotpo</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<script src="{{ "section-trustpilot-yotpo-reviews.js" | asset_url }}" async></script>
+
+{% schema %}
+{
+  "name": "Trustpilot & Yotpo",
+  "tag": "section",
+  "class": "section section-trutpilot-yotpo",
+  "settings": [
+    {
+      "type": "inline_richtext",
+      "id": "title",
+      "label": "Heading"
+    },
+    {
+      "type": "select",
+      "id": "heading_size",
+      "options": [
+        {
+          "value": "h3",
+          "label": "Small"
+        },
+        {
+          "value": "h2",
+          "label": "Medium"
+        },
+        {
+          "value": "h1",
+          "label": "Large"
+        }
+      ],
+      "default": "h1",
+      "label": "Heading size"
+    },
+    {
+      "type": "select",
+      "id": "text_allignment",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "left",
+      "label": "Text allignment"
+    },
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "Color scheme",
+      "default": "background-1"
+    },
+    {
+      "type": "color",
+      "id": "star_color",
+      "label": "Star colour",
+      "default": "#ac90c1"
+    },
+    {
+      "type": "header",
+      "content": "Section Padding"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Top padding",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Bottom padding",
+      "default": 36
+    }
+  ],
+  "presets": [{ "name": "Trustpilot & Yotpo" }]
+}
+{% endschema %}

@@ -1,0 +1,110 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "heading_size": "h1",
+        "show_content": true,
+        "text_alignment": "left",
+        "color_scheme": "accent-4",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_37Pdpz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YMkPdn": {
+          "type": "heading",
+          "settings": {
+            "heading": "12 Days of Cliphair",
+            "heading_size": "h2",
+            "h1": true
+          }
+        },
+        "text_kVJW6p": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tap today's date to reveal your exclusive gift...</p>",
+            "read-more_text": ""
+          }
+        },
+        "text_wEjY7A": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Don't want to miss out on daily offers? Sign up for reminders!</p>",
+            "read-more_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_YMkPdn",
+        "text_kVJW6p",
+        "text_wEjY7A"
+      ],
+      "custom_css": [
+        ".rich-text__wrapper {width: 100%; max-width: 750px;}",
+        "@media screen and (min-width: 780px) {.rich-text__wrapper {padding: 0 !important; }}",
+        ".rich-text__text p {font-size: 1.2rem; line-height: 1em;}",
+        ".rich-text__blocks > * + * {margin-top: 1rem;}"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-3",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 8
+      }
+    },
+    "custom_liquid_CWQf7m": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n.event__content{\npadding:0 3rem!important;\n}\n</style>\n<div style='width:100%; max-width:500px; margin:0 auto;'><div class=\"klaviyo-form-WMp23w\"></div></div>",
+        "color_scheme": "accent-3",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "17654622848cf05dc6": {
+      "type": "apps",
+      "blocks": {
+        "christmas_calendar_sale_boost_christmas_calendar_U3QzGh": {
+          "type": "shopify://apps/christmas-calendar-sale-boost/blocks/christmas-calendar/cf73da4a-c532-4125-9ffa-b205bf1d75c4",
+          "settings": {
+            "max_width": 750,
+            "space_top": 20,
+            "space_bottom": 20,
+            "test_mode": false,
+            "open_door": "1"
+          }
+        }
+      },
+      "block_order": [
+        "christmas_calendar_sale_boost_christmas_calendar_U3QzGh"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_37Pdpz",
+    "custom_liquid_CWQf7m",
+    "17654622848cf05dc6"
+  ]
+}

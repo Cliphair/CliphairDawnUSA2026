@@ -1,0 +1,198 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "f7c8af35-61d8-4ba1-8391-d7d6406f86d0": {
+      "type": "page_font",
+      "settings": {
+        "font": "josefin_sans_n4"
+      }
+    },
+    "97b34061-3408-4bdf-adb9-99a10b14d1ec": {
+      "type": "page-header",
+      "settings": {
+        "show_title": false,
+        "custom_title": "",
+        "heading_size": "h2",
+        "text_alignment": "center",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "08f2a014-e4bd-40d6-b14b-604d9a37973c": {
+      "type": "questions",
+      "blocks": {
+        "1d754cc4-49c6-4dfb-aac1-e284b0a7726d": {
+          "type": "question",
+          "settings": {
+            "question": "The red zone is an area on the head that hair extensions should be placed in.",
+            "image": "shopify://shop_images/quiz-question-11.webp",
+            "answer1": "True",
+            "answer2": "False",
+            "answer3": "",
+            "answer4": "",
+            "answer5": "",
+            "direction": "column",
+            "answer": "b",
+            "explanation": "<p>The red zone is regarded as the area where hair extensions should never be placed on. For more information visit:  <a href=\"/blogs/hair-blog/how-do-you-blend-hair-extensions-that-don-t-match\" title=\"/blogs/hair-blog/how-do-you-blend-hair-extensions-that-don-t-match\">How Do You Blend Hair Extensions That Don’t Match?</a></p>"
+          }
+        },
+        "b6147055-21bd-406d-89f8-c6fdcc2d3b8c": {
+          "type": "question",
+          "settings": {
+            "question": "Why is it important to avoid alcohol-based products on hair extensions? ",
+            "answer1": "They might get the extensions drunk",
+            "answer2": "They can fade the colour of the extensions",
+            "answer3": "They may strip moisture and damage the hair ",
+            "answer4": "They enhance shine excessively ",
+            "answer5": "",
+            "direction": "column",
+            "answer": "c",
+            "explanation": "<p>Alcohol-based products can be extremely drying for hair extensions, as they strip away essential moisture and natural oils—something extensions can’t replenish on their own like natural hair can. For healthier, longer-lasting extensions, opt for alcohol-free and sulphate-free products.<br/><br/>For product tips, check out our guide:  <a href=\"/blogs/hair-blog/7-best-shampoo-and-conditioner\" title=\"/blogs/hair-blog/7-best-shampoo-and-conditioner\">7 Best Shampoo And Conditioner</a></p>"
+          }
+        },
+        "6e2d70eb-c74f-4ea0-87b3-7974ffab6d22": {
+          "type": "question",
+          "settings": {
+            "question": "What do they mean by ‘Halo’ in hair extensions terminology?",
+            "answer1": "The term \"Halo\" in hair extensions terminology refers to a type of extension that is designed as a single weft with a clear nylon wire, resembling a halo when worn.",
+            "answer2": "Hand crafted hair extensions made by angels",
+            "answer3": "Halo\" could be thought of as a way to describe extensions that encircle your head for a fuller look",
+            "answer4": "",
+            "answer5": "",
+            "direction": "column",
+            "answer": "a",
+            "explanation": "<p> In hair extensions, the term \"Halo\" refers to a type of extension that is a single weft with a transparent wire. It sits on the crown of your head like a halo, providing a quick and easy way to add volume and length without clips or tapes.</p>"
+          }
+        },
+        "e8abed36-c34b-4140-8f54-41c9463ffa01": {
+          "type": "question",
+          "settings": {
+            "question": "How long does your hair have to be to wear hair extensions?",
+            "answer1": "No Requirement",
+            "answer2": "4 inches",
+            "answer3": "2 Inches",
+            "answer4": "",
+            "answer5": "",
+            "direction": "row",
+            "answer": "b",
+            "explanation": "<p>For more information take a look at our blog: <a href=\"/blogs/hair-blog/stylist-series-top-10-questions-asked-about-hair-extensions\" title=\"/blogs/hair-blog/stylist-series-top-10-questions-asked-about-hair-extensions\">Stylist Series: Top 10 Questions Asked About Hair Extensions</a></p>"
+          }
+        },
+        "38d88d6c-4d59-4746-b3a6-9e9d4d98646d": {
+          "type": "question",
+          "settings": {
+            "question": "Which hair extensions product is this?",
+            "image": "shopify://shop_images/18-613-rft_website-attachment_5f42048c-4a62-4f6b-aa79-93dc568020e9.webp",
+            "answer1": "Flat Tips",
+            "answer2": "I-Tips",
+            "answer3": "Nano Bonds",
+            "answer4": "",
+            "answer5": "",
+            "direction": "column",
+            "answer": "a",
+            "explanation": "<p>For more information take a look at our blog:  <a href=\"https://www.cliphair.co.uk/blogs/hair-blog/flat-tip-hair-extensions-the-super-secret-to-a-flawless-makeover\" title=\"https://www.cliphair.co.uk/blogs/hair-blog/flat-tip-hair-extensions-the-super-secret-to-a-flawless-makeover\">Flat Tip Hair Extensions: The Super Secret To A Flawless Makeover</a></p>"
+          }
+        },
+        "834fb2e8-c080-4b7d-a34f-9ae43a55f123": {
+          "type": "question",
+          "settings": {
+            "question": "What does \"double wefted\" mean in hair extensions? ",
+            "answer1": "Two Colours Blended ",
+            "answer2": "Two wefts sewn together for extra volume ",
+            "answer3": "Double the length ",
+            "answer4": "Two types of hair used ",
+            "answer5": "",
+            "direction": "column",
+            "answer": "b",
+            "explanation": "<p>Double wefted\" means that two wefts of hair are sewn together to create a thicker, fuller look without adding extra weight. It’s a great option for anyone who wants more volume without needing multiple layers of extensions.<br/>For more info refer to blog - <a href=\"https://www.cliphair.co.uk/blogs/hair-blog/double-weft-extensions-explained\" title=\"https://www.cliphair.co.uk/blogs/hair-blog/double-weft-extensions-explained\">Double Weft Extensions Explained</a></p>"
+          }
+        },
+        "cb4556d7-bc01-41d7-a4db-61ce8c16910b": {
+          "type": "question",
+          "settings": {
+            "question": "Which shade is this closest to?",
+            "image": "shopify://shop_images/Bridal_hair_that_lasts_throughout_your_special_day_staciegoodwinbridalhair_uses_our_Remy_hu.jpg",
+            "answer1": "Toffee Brown (#5)",
+            "answer2": "Mousey Brown (#6B)",
+            "answer3": "Chocolate Honey (#4/27)",
+            "answer4": "",
+            "answer5": "",
+            "direction": "column",
+            "answer": "b",
+            "explanation": "<p>For a full colour breakdown visit our <a href=\"/pages/hair-extensions-by-colour\" title=\"/pages/hair-extensions-by-colour\">colour chart page</a>. </p>"
+          }
+        },
+        "659100dc-389e-4e93-ba9a-f5a2a5b206dd": {
+          "type": "question",
+          "settings": {
+            "question": "How should you store clip-in hair extensions when not in use? ",
+            "answer1": "In a plastic bag ",
+            "answer2": "Rolled up in a towel ",
+            "answer3": "Hanging in a cool, dry place ",
+            "answer4": "Indirect sunlight ",
+            "answer5": "",
+            "direction": "column",
+            "answer": "c",
+            "explanation": "<p>Storing your clip-in hair extensions properly helps maintain their shape, shine, and longevity. A cool, dry place keeps them free from moisture, heat damage, and tangling. Hanging them or placing them flat in a storage box ensures they stay neat and ready for your next use.<br/><br/><strong>For full storage tips, check out: </strong><a href=\"https://www.cliphair.co.uk/blogs/hair-blog/how-to-store-hair-extensions\" title=\"https://www.cliphair.co.uk/blogs/hair-blog/how-to-store-hair-extensions\">A Complete Guide On How To Store Hair Extensions</a></p>"
+          }
+        },
+        "50462cd4-9646-4c6e-9d22-ba4cc6acff38": {
+          "type": "question",
+          "settings": {
+            "question": "Which of these is a temporary hair extension method",
+            "answer1": "Nano Rings",
+            "answer2": "Tape Ins",
+            "answer3": "Pre-Bonded",
+            "answer4": "Clip Ins",
+            "answer5": "",
+            "direction": "column",
+            "answer": "d",
+            "explanation": "<p>Clip-in hair extensions are considered a temporary method because they can be applied and removed daily without any professional help or long-term commitment.</p>"
+          }
+        },
+        "14278050-36eb-4b5e-9a59-cb67d15d8399": {
+          "type": "question",
+          "settings": {
+            "question": "What Type of brush is this?",
+            "image": "shopify://shop_images/quiz-question-10.webp",
+            "answer1": "Thermall Brush",
+            "answer2": "Curve Brush",
+            "answer3": "Detangling Brush",
+            "answer4": "",
+            "answer5": "",
+            "direction": "column",
+            "answer": "c",
+            "explanation": "<p>Their special design minimizes damage from brushing tangled hair, and their thin flexible bristles make knot-busting easy and painless.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1d754cc4-49c6-4dfb-aac1-e284b0a7726d",
+        "b6147055-21bd-406d-89f8-c6fdcc2d3b8c",
+        "6e2d70eb-c74f-4ea0-87b3-7974ffab6d22",
+        "e8abed36-c34b-4140-8f54-41c9463ffa01",
+        "38d88d6c-4d59-4746-b3a6-9e9d4d98646d",
+        "834fb2e8-c080-4b7d-a34f-9ae43a55f123",
+        "cb4556d7-bc01-41d7-a4db-61ce8c16910b",
+        "659100dc-389e-4e93-ba9a-f5a2a5b206dd",
+        "50462cd4-9646-4c6e-9d22-ba4cc6acff38",
+        "14278050-36eb-4b5e-9a59-cb67d15d8399"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "f7c8af35-61d8-4ba1-8391-d7d6406f86d0",
+    "97b34061-3408-4bdf-adb9-99a10b14d1ec",
+    "08f2a014-e4bd-40d6-b14b-604d9a37973c"
+  ]
+}

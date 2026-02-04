@@ -217,8 +217,8 @@
         "video_TfRk3t": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Lightest Blonde (60) Tape In Hair Extensions.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "description": "",
             "modal_title": "<strong>Tape In</strong> Hair Extensions",
             "collection_modal": "",
@@ -228,8 +228,8 @@
         "video_ayXWCz": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Medium Brown (4) Nano Ring Hair Extensions.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "description": "",
             "modal_title": "<strong>Nano Ring</strong> Hair Extensions",
             "collection_modal": "",
@@ -239,8 +239,8 @@
         "video_TfRk3t4": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Darkest Brown (2) Remy Royale Invisible Tape In Hair Extensions.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "description": "",
             "modal_title": "<strong>Invisible Tape In</strong> Hair Extensions",
             "collection_modal": "",
@@ -250,8 +250,8 @@
         "video_t8zGmx": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Remy Royale Double Drawn Human Hair Weft Weave Extensions - Ice Blonde_2ccb45ee-26d8-4187-a6a1-9af630c956a2.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "description": "",
             "modal_title": "<strong>Double Drawn Weave</strong> Hair Extensions",
             "collection_modal": "",
@@ -715,8 +715,8 @@
         "video_cTH4ex": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Darkest Brown (2) Remy Royale Invisible Tape In Hair Extensions.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "title": "",
             "description": "",
             "button_url": "shopify://collections/tape-in-hair-extensions",
@@ -727,8 +727,8 @@
         "video_cTH4ex4": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Darkest Brown (2) Remy Royale Double Drawn Weave Extensions.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "title": "",
             "description": "",
             "button_url": "shopify://collections/remy-royale-double-drawn-hair-weft-extensions",
@@ -739,8 +739,8 @@
         "video_XtAaKF5": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/BlondeMe (60SS) Nano Ring Hair Extensions.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "title": "",
             "description": "",
             "button_url": "shopify://collections/nano-rings-hair-extensions",
@@ -751,8 +751,8 @@
         "video_3cPb8C": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Jet Black (1) Remy Royale Invisible Tape In Hair Extensions.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "title": "",
             "description": "",
             "button_url": "shopify://collections/remy-royale-invisible-tape-in-hair-extensions",
@@ -763,8 +763,8 @@
         "video_XtAaKF": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Medium Brown (4) Tape In Hair Extensions.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "title": "",
             "description": "",
             "button_url": "shopify://collections/tape-in-hair-extensions",
@@ -775,8 +775,8 @@
         "video_ziLa4r": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Darkest Brown (2) Nano Ring Hair Extensions.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "title": "",
             "description": "",
             "button_url": "shopify://collections/nano-rings-hair-extensions",
@@ -787,8 +787,8 @@
         "video_B3BDJX": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Iceblonde Remy Royale Invisible Tape In Hair Extensions.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "title": "",
             "description": "",
             "button_url": "shopify://collections/remy-royale-invisible-tape-in-hair-extensions",
@@ -799,8 +799,8 @@
         "video_cewVhd": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Jet Black (1) Nano Ring Hair Extensions.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "title": "",
             "description": "",
             "button_url": "shopify://collections/nano-rings-hair-extensions",
@@ -811,8 +811,8 @@
         "video_KfhrNN": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Ice Blonde Tape in Hair Extensions.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "title": "",
             "description": "",
             "button_url": "shopify://collections/tape-in-hair-extensions",
@@ -823,8 +823,8 @@
         "video_Yr7BhC": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Medium Brown (4) Remy Royale Invisible Tape In Hair Extensions.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "title": "",
             "description": "",
             "button_url": "shopify://collections/remy-royale-invisible-tape-in-hair-extensions",

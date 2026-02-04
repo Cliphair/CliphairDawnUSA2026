@@ -87,8 +87,8 @@
         "video_UReXF7": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/double-weft.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "cover_image": "shopify://shop_images/double-weft-thumbnail.webp",
             "description": "",
             "title": "HOW TO APPLY THE DOUBLE WEFT ",
@@ -99,8 +99,8 @@
         "video_tycK3b": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/seamless.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "cover_image": "shopify://shop_images/seamless-thumbnail.webp",
             "description": "",
             "title": "HOW TO APPLY SEAMLESS CLIP INS",
@@ -111,8 +111,8 @@
         "video_nzpih8": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/quad-weft.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "cover_image": "shopify://shop_images/quad-weft-thumbnail.webp",
             "description": "",
             "title": "HOW TO APPLY THE QUAD WEFT VOLUMISER",
@@ -134,8 +134,8 @@
         "video_eRmDNf": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/How to use a Cliphair Colour Ring.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "cover_image": "shopify://shop_images/colour-ring-video-thumbnail.webp",
             "description": "How to use a Cliphair Colour Ring",
             "title": "HOW TO USE A CLIPHAIR COLOUR RING",
@@ -146,7 +146,7 @@
         "video_QNyMmD": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/How To Apply Nano Rings.mp4",
+            "video": "",
             "video_url": "",
             "description": "How To Apply Nano Rings",
             "title": "HOW TO APPLY NANO RINGS",
@@ -1244,7 +1244,7 @@
         "video_QAE4D4": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Air Drying Hair Extension.mp4",
+            "video": "",
             "video_url": "",
             "cover_image": "shopify://shop_images/Air_Drying_Hair_Extensions_thumbnail.webp",
             "description": "Air Drying Hair Extension",
@@ -1256,7 +1256,7 @@
         "video_RB8brp": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/How To Wash Clip In Extensions.mp4",
+            "video": "",
             "video_url": "",
             "description": "How To Wash Clip In Extensions",
             "title": "HOW TO WASH CLIP IN EXTENSIONS",
@@ -1267,8 +1267,8 @@
         "video_jQCRG7": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/How To Wash Curly Clip In Extensions.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "description": "How To Wash Curly Clip In Extensions",
             "title": "HOW TO WASH CURLY CLIP IN EXTENSIONS",
             "button_label": "Curly Clip-Ins – View Collection",
@@ -1278,7 +1278,7 @@
         "video_gUDmkx": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/How To Wash Permanent Extensions With Purple Shampoo.mp4",
+            "video": "",
             "video_url": "",
             "description": "How To Wash Permanent Extensions With Purple Shampoo",
             "title": "HOW TO WASH PERMANENT EXTENSIONS WITH PURPLE SHAMPOO",
@@ -1289,7 +1289,7 @@
         "video_jU7dFn": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/How To Use Purple Shampoo On Clip In Extensions.mp4",
+            "video": "",
             "video_url": "",
             "description": "How To Use Purple Shampoo On Clip In Extensions",
             "title": "HOW TO USE PURPLE SHAMPOO ON CLIP IN EXTENSIONS",
@@ -1300,7 +1300,7 @@
         "video_NpUFAT": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Different Ways To Use Purple Shampoo.mp4",
+            "video": "",
             "video_url": "",
             "description": "Different Ways To Use Purple Shampoo",
             "title": "DIFFERENT WAYS TO USE PURPLE SHAMPOO",

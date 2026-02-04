@@ -225,8 +225,8 @@
         "video_TfRk3t": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Timed Application for Halo - Long Version ( 60 second )-2-2.mov",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "cover_image": "shopify://shop_images/halo-application-thumbnail.jpg",
             "title": "",
             "description": ""
@@ -235,8 +235,8 @@
         "video_t8zGmx": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Halo Removal - Duo.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "cover_image": "shopify://shop_images/halo-extension-removal-duo-thumbnail.jpg",
             "title": "",
             "description": ""
@@ -245,8 +245,8 @@
         "video_ayXWCz": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Tyla - Removal.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "cover_image": "shopify://shop_images/removal-tyla-thumbnail.jpg",
             "title": "",
             "description": ""
@@ -255,8 +255,8 @@
         "video_TfRk3t4": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Halo Removal - Hevillin.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "cover_image": "shopify://shop_images/removal-habellin-thumbnail.jpg",
             "title": "",
             "description": ""
@@ -265,8 +265,8 @@
         "video_t8zGmx5": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Jayde - Removal.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "cover_image": "shopify://shop_images/removal-jayde-thumbnail.jpg",
             "title": "",
             "description": ""
@@ -461,8 +461,8 @@
         "video_TfRk3t": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/campaign-video.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "cover_image": "shopify://shop_images/main-campaign-video-thumbnail.jpg",
             "description": "",
             "modal_title": "Halo Extensions",
@@ -474,8 +474,8 @@
         "video_t8zGmx": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Tyla - Transformation.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "cover_image": "shopify://shop_images/transformation-tyla-thumbanil.jpg",
             "description": "",
             "modal_title": "Halo Extensions",
@@ -486,8 +486,8 @@
         "video_ayXWCz": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Hevillin - Transformation(TikTok ).mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "cover_image": "shopify://shop_images/transformation-hevillin-thumbanil.jpg",
             "description": "",
             "modal_title": "Halo Extensions",
@@ -499,8 +499,8 @@
         "video_TfRk3t4": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Jayde - Transformation.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "cover_image": "shopify://shop_images/transformation-jayde-thumbanil.jpg",
             "description": "",
             "modal_title": "Halo Extensions",
@@ -648,8 +648,8 @@
         "video_TfRk3t": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/Timed Application for Halo - Long Version ( 60 second )-2-2.mov",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "description": "",
             "modal_title": "",
             "modal_image": "shopify://shop_images/Blonde_Flower.jpg",
@@ -660,8 +660,8 @@
         "video_t8zGmx": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/reel-video-12.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "description": "",
             "modal_title": "Halo Extensions",
             "modal_image": "shopify://shop_images/Beachy_Waves.jpg",
@@ -672,8 +672,8 @@
         "video_ayXWCz": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/reel-video-11.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "description": "",
             "modal_title": "Halo Extensions",
             "modal_image": "shopify://shop_images/Featured_Image.jpg",
@@ -684,8 +684,8 @@
         "video_TfRk3t4": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/reel-video-13.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "description": "",
             "modal_title": "Halo Extensions",
             "modal_image": "shopify://shop_images/Blonde_Flower.jpg",
@@ -696,8 +696,8 @@
         "video_t8zGmx5": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/reel-video-12.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video": "",
+            "video_url": "",
             "description": "",
             "modal_title": "Halo Extensions",
             "modal_image": "shopify://shop_images/Beachy_Waves.jpg",

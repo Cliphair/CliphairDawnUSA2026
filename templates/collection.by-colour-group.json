@@ -15,8 +15,8 @@
         "slide_CBmATa": {
           "type": "slide",
           "settings": {
-            "image": "{{ collection.metafields.custom.custom_banner_mobile.value }}",
-            "image_desktop": "{{ collection.metafields.custom.custom_banner_desktop.value }}",
+            "image": "",
+            "image_desktop": "",
             "image_url": ""
           }
         }

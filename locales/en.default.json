@@ -729,6 +729,16 @@
           "bright_red": "Bright Red"
         },
         "sample": "Order A Sample"
+      },
+      "help_me_choose": {
+        "colour_matching": "Express Colour Matching",
+        "sample":"Order A Sample",
+        "quiz":"Hair Quiz",
+        "video_guides": "Video Guide",
+        "length_guide":"Length Guide",
+        "lookbook":"Lookbook",
+        "contact":"Contact Us",
+        "buying_guide":"Ultimate Hair Extensions Buying Guide"
       }
     },
     "helpers": {

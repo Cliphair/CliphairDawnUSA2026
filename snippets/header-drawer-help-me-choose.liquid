@@ -1,0 +1,136 @@
+<li>
+  {% assign object = pages['colour-matching-service'] %}
+  <a
+    id="HeaderDrawer-help-me-choose-express-colour-matching"
+    href="{{ object.url }}"
+    class="menu-drawer__menu-item link link--text list-menu__item focus-inset{% if request.path == object.url %} menu-drawer__menu-item--active{% endif %}"
+    {% if request.path == object.url %}
+      aria-current="page"
+    {% endif %}
+  >
+    {{ 'navbar.sub_level.help_me_choose.colour_matching' | t }}
+  </a>
+</li>
+
+<li>
+  {% assign object = products['hair-extensions-sample-pieces'] %}
+  <a
+    id="HeaderDrawer-help-me-choose-sample-product"
+    href="{{ object.url }}"
+    class="menu-drawer__menu-item link link--text list-menu__item focus-inset{% if request.path == object.url %} menu-drawer__menu-item--active{% endif %}"
+    {% if request.path == object.url %}
+      aria-current="page"
+    {% endif %}
+  >
+    {{ 'navbar.sub_level.help_me_choose.sample' | t }}
+  </a>
+</li>
+
+<li>
+  {% assign object = pages.journey %}
+  <a
+    id="HeaderDrawer-help-me-choose-hair-quiz"
+    href="{{ object.url }}"
+    class="menu-drawer__menu-item link link--text list-menu__item focus-inset{% if request.path == object.url %} menu-drawer__menu-item--active{% endif %}"
+    {% if request.path == object.url %}
+      aria-current="page"
+    {% endif %}
+  >
+    {{ 'navbar.sub_level.help_me_choose.quiz' | t }}
+  </a>
+</li>
+
+<li>
+  {% assign object = pages['video-guides'] %}
+  <a
+    id="HeaderDrawer-help-me-choose-video-guide"
+    href="{{ object.url }}"
+    class="menu-drawer__menu-item link link--text list-menu__item focus-inset{% if request.path == object.url %} menu-drawer__menu-item--active{% endif %}"
+    {% if request.path == object.url %}
+      aria-current="page"
+    {% endif %}
+  >
+    {{ 'navbar.sub_level.help_me_choose.video_guides' | t }}
+  </a>
+</li>
+
+<li>
+  {% liquid
+    assign length_guide_url = 'https://www.youtube.com/watch?v=44JZNkwk_0s'
+    assign length_guide_id = '44JZNkwk_0s'
+  %}
+  <noscript>
+    <a
+      class="menu-drawer__menu-item link link--text list-menu__item focus-inset"
+      href="{{ object.url }}"
+      title="Length Guide"
+      aria-label="Length Guide opens on Youtube"
+    >
+      {{- 'navbar.sub_level.help_me_choose.length_guide' | t -}}
+    </a>
+  </noscript>
+  <deferred-media-popup
+    data-media-id="{{ length_guide_id }}"
+    class="no-js-hidden"
+  >
+    <a
+      id="Deferred-Poster-Modal-{{ length_guide_id }}-mobile"
+      class="menu-drawer__menu-item link link--text list-menu__item focus-inset menu-video"
+      type="button"
+      aria-label="Ultimate Length Guide"
+    >
+      {{ 'navbar.sub_level.help_me_choose.length_guide' | t }}
+    </a>
+    <template>
+      <iframe
+        src="https://www.youtube.com/embed/{{ length_guide_id }}?enablejsapi=1&autoplay=1"
+        class="js-youtube"
+        allow="autoplay; encrypted-media"
+        allowfullscreen
+        title="Ultimate Length Guide"
+      ></iframe>
+    </template>
+  </deferred-media-popup>
+</li>
+
+<li>
+  {% assign object = pages.lookbook %}
+  <a
+    id="HeaderDrawer-help-me-choose-lookbook"
+    href="{{ object.url }}"
+    class="menu-drawer__menu-item link link--text list-menu__item focus-inset{% if request.path == object.url %} menu-drawer__menu-item--active{% endif %}"
+    {% if request.path == object.url %}
+      aria-current="page"
+    {% endif %}
+  >
+    {{ 'navbar.sub_level.help_me_choose.lookbook' | t }}
+  </a>
+</li>
+
+<li>
+  {% assign object = pages['contact-us'] %}
+  <a
+    id="HeaderDrawer-help-me-choose-contact-us"
+    href="{{ object.url }}"
+    class="menu-drawer__menu-item link link--text list-menu__item focus-inset{% if request.path == object.url %} menu-drawer__menu-item--active{% endif %}"
+    {% if request.path == object.url %}
+      aria-current="page"
+    {% endif %}
+  >
+    {{ 'navbar.sub_level.help_me_choose.contact' | t }}
+  </a>
+</li>
+
+<li>
+  {% assign object = articles['hair-extension-buying-guide-and-hair-glossary'] %}
+  <a
+    id="HeaderDrawer-help-me-buying-guide"
+    href="{{ object.url }}"
+    class="menu-drawer__menu-item link link--text list-menu__item focus-inset{% if request.path == object.url %} menu-drawer__menu-item--active{% endif %}"
+    {% if request.path == object.url %}
+      aria-current="page"
+    {% endif %}
+  >
+    {{ 'navbar.sub_level.help_me_choose.buying_guide' | t }}
+  </a>
+</li>

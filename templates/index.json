@@ -363,6 +363,8 @@
         "slide_6zqfjf": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/lookbook-mobile-banner.jpg",
+            "image_desktop": "shopify://shop_images/lookbook-desktop-banner.jpg",
             "image_url": "shopify://pages/lookbook"
           }
         }

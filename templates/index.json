@@ -294,57 +294,6 @@
         "trackable_name": ""
       }
     },
-    "rich_text_ez6FdW": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Bzfc9T": {
-          "type": "heading",
-          "settings": {
-            "heading": "Need A Hand?",
-            "heading_size": "h1",
-            "h1": false
-          }
-        },
-        "text_wgJyct": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Take our interactive quiz and find out which hair extensions are best for you!</p>",
-            "read-more_text": ""
-          }
-        },
-        "button_czJX6E": {
-          "type": "button",
-          "settings": {
-            "button_label": "TAKE QUIZ NOW",
-            "button_link": "shopify://pages/journey",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_Bzfc9T",
-        "text_wgJyct",
-        "button_czJX6E"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".rich-text__wrapper {width: 100% !important;}",
-        ".rich-text__blocks > * + * {margin-top: 1rem;}",
-        ".rich-text__blocks {max-width: unset;}",
-        ".button {margin-top: 2rem;}"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "center",
-        "color_scheme": "accent-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
     "slideshow_image_link_yUWnKi": {
       "type": "slideshow-image-link",
       "blocks": {
@@ -395,146 +344,16 @@
         "padding_bottom": 0
       }
     },
-    "yotpo_review_carrousel_eXBCYB": {
-      "type": "yotpo-review-carrousel",
+    "trustpilot_carrousel_AJfE9a": {
+      "type": "trustpilot-carrousel",
+      "name": "Trustpilot Carrousel",
       "settings": {
-        "container_color_scheme": "inverse",
+        "title": "",
+        "heading_size": "h1",
+        "text_allignment": "left",
+        "color_scheme": "inverse",
+        "carousel_code": "<div class=\"trustpilot-widget\" data-locale=\"en-GB\" data-template-id=\"54ad5defc6454f065c28af8b\" data-businessunit-id=\"5fd0f3477e75ee0001d12767\" data-style-height=\"240px\" data-style-width=\"100%\" data-stars=\"3,4,5\" data-review-languages=\"en\" data-text-color=\"#414141\">\n      <a href=\"https://uk.trustpilot.com/review/cliphair.com\" target=\"_blank\" rel=\"noopener\">Trustpilot</a>\n    </div>",
         "padding_top": 20,
-        "padding_bottom": 40
-      }
-    },
-    "rich_text_collage_bg_qibWaW": {
-      "type": "rich-text-collage-bg",
-      "blocks": {
-        "heading_3EjH4p": {
-          "type": "heading",
-          "settings": {
-            "heading": "Cliphair Looks Great On You",
-            "heading_size": "h1"
-          }
-        },
-        "text_Dn3thJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Don't just take our word for it, explore the lookbook to see our hair extensions in real life on our amazing customers</p>"
-          }
-        },
-        "button_DMUj9Q": {
-          "type": "button",
-          "settings": {
-            "button_label": "FIND YOUR LOOK",
-            "button_link": "shopify://pages/lookbook",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "image_CXggPb": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/lookbook-section-bg-image1.webp"
-          }
-        },
-        "image_wE8M3e": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/lookbook-section-bg-image2.webp"
-          }
-        },
-        "image_XmkpVj": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/lookbook-section-bg-image3.webp"
-          }
-        },
-        "image_jLnG3R": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/lookbook-section-bg-image4.webp"
-          }
-        },
-        "image_MDRm6y": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/lookbook-section-bg-image5.webp"
-          }
-        },
-        "image_p4EX93": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/lookbook-section-bg-image6.webp"
-          }
-        },
-        "image_8zwzqh": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/lookbook-section-bg-image7.webp"
-          }
-        },
-        "image_ibPek8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/lookbook-section-bg-image8.webp"
-          }
-        },
-        "image_Gyx3yL": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/lookbook-section-bg-image9.webp"
-          }
-        },
-        "image_EkrNPy": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/lookbook-section-bg-image10.webp"
-          }
-        },
-        "image_QJdHcj": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/lookbook-section-bg-image11.webp"
-          }
-        },
-        "image_piJ8Qx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/lookbook-section-bg-image12.webp"
-          }
-        }
-      },
-      "block_order": [
-        "heading_3EjH4p",
-        "text_Dn3thJ",
-        "button_DMUj9Q",
-        "image_CXggPb",
-        "image_wE8M3e",
-        "image_XmkpVj",
-        "image_jLnG3R",
-        "image_MDRm6y",
-        "image_p4EX93",
-        "image_8zwzqh",
-        "image_ibPek8",
-        "image_Gyx3yL",
-        "image_EkrNPy",
-        "image_QJdHcj",
-        "image_piJ8Qx"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".button {margin-top: 5rem;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-3",
-        "bg_opacity": 0.5,
-        "full_width": true,
-        "mobile-row": 2,
-        "mobile-column": 2,
-        "desktop-row": 2,
-        "desktop-column": 6,
-        "padding_top": 0,
         "padding_bottom": 40
       }
     },
@@ -544,8 +363,6 @@
         "slide_6zqfjf": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/lookbook-mobile-banner.jpg",
-            "image_desktop": "shopify://shop_images/lookbook-desktop-banner.jpg",
             "image_url": "shopify://pages/lookbook"
           }
         }
@@ -782,7 +599,6 @@
         "image_Bt9aJr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ameliadimz.jpg",
             "img_url": "",
             "alt": "",
             "text_label": "<p>@ameliadimz styled by @elliefoxhair <br/><br/><a href=\"/products/double-wefted-set-clip-in-hair-extensions-lightest-brown-18\" title=\"Double Wefted Full Head Remy Clip in Human Hair Extensions - Lightest Brown (#18)\">20\" Lightest Brown (#18) Double Weft Clip Ins</a></p>",
@@ -792,7 +608,6 @@
         "image_8rezVL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/amyhartxo.jpg",
             "img_url": "",
             "alt": "",
             "text_label": "<p>@amyhartxo Styled By @hairbyjaypinder<br/><br/><a href=\"/products/remy-royale-seamless-clip-ins-16-60\" title=\"Barbie Blonde (#16/60) Double Drawn Seamless Clip In Hair Extensions\">18\" Barbie Blonde (#16/60) Seamless Clip Ins</a></p>",
@@ -812,7 +627,6 @@
         "image_pC6jNV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/chloeburrows.jpg",
             "img_url": "",
             "alt": "",
             "text_label": "<p>@chloeburrows styled by @hairbyjaypinder</p><p><a href=\"/products/blonde-mix-16-60-clip-in-ponytail-extensions\" title=\"Barbie Blonde (#16/60) Straight Up Wrap Around Ponytail Extension\">24\" Barbie Blonde Wrap Around Ponytail</a></p>",
@@ -822,7 +636,6 @@
         "image_g8G4zb": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/emthenutritionist.jpg",
             "img_url": "",
             "alt": "",
             "text_label": "<p>@emthenutritionist styled by @hairbyjaypinder </p><p><a href=\"/products/seamless-clip-in-hair-extensions-double-drawn-lightest-blonde\" title=\"Lightest Blonde (#60) Double Drawn Seamless Clip In Hair Extensions\">18” Lightest Blonde (#60) Seamless Clip Ins </a></p>",
@@ -842,7 +655,6 @@
         "image_KJrQnV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/fern-as-seen-on.webp",
             "img_url": "",
             "alt": "",
             "text_label": "<p>Fern Mccann Styled By @hairbyjaypinder</p><p><a href=\"/products/seamless-clip-in-hair-extensions-double-drawn-medium-brown\" target=\"_blank\" title=\"Medium Brown (#4) Double Drawn Seamless Clip In Hair Extensions\">22\" Medium Brown (#4) Seamless Clip Ins</a></p>",
@@ -883,7 +695,6 @@
         "image_6GEaeT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/kelsey-as-seen-on.webp",
             "img_url": "",
             "alt": "",
             "text_label": "<p>@being_kelsey styled by @hairbyjaypinder</p><p><a href=\"/products/remy-royale-seamless-clip-ins-16-60\" target=\"_blank\" title=\"Barbie Blonde (#16/60) Double Drawn Seamless Clip In Hair Extensions\">16\" Barbie Blonde (#16/60) Seamless Clip-In Extensions </a></p>",
@@ -1255,11 +1066,9 @@
     "753975ec-3602-477e-b65e-6d089a9053cb",
     "slideshow_image_link_QyBpYz",
     "collection_carrousel_fb6cDE",
-    "rich_text_ez6FdW",
     "slideshow_image_link_yUWnKi",
     "rich_text_rApCNT",
-    "yotpo_review_carrousel_eXBCYB",
-    "rich_text_collage_bg_qibWaW",
+    "trustpilot_carrousel_AJfE9a",
     "slideshow_image_link_GiHNFC",
     "rich_text_XgpBnz",
     "maquee_mnMgq6",

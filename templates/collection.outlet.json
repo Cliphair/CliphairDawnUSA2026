@@ -118,6 +118,7 @@
         },
         "template--15283894157373__c6a82ce6-f9b5-448b-af80-7e17ba7abc7b-logo_image-3": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Cliphair-Rewards-_White.svg",
             "img_url": "",
@@ -164,10 +165,10 @@
         "heading_size": "h1",
         "introduction": "",
         "text_allignment": "left",
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "swipe_on_desktop": false,
         "color_scheme": "background-collection-titles",
-        "columns_mobile": "3",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "slider_visual": "counter",
         "padding_top": 4,

@@ -307,14 +307,23 @@
             <span class="caption-large light">{{ block.settings.description | escape }}</span>
 
             {%- if show_rating -%}
-              <!-- Yotpo widget -->
               <div
-                class="yotpo-widget-instance {{ settings.card_text_alignment }}"
-                data-yotpo-instance-id="277269"
-                data-yotpo-product-id="{{ card_product.id }}"
-                data-yotpo-cart-product-id="{{ item.product.id }}"
-                data-yotpo-section-id="{{ template.name }}"
-              ></div>
+                class="trustpilot-widget"
+                data-locale="en-US"
+                data-template-id="577258fb31f02306e4e3aaf9"
+                data-businessunit-id="5fd0f3477e75ee0001d12767"
+                data-style-height="100%"
+                data-text-color="#414141B3"
+                data-style-width="100%"
+                data-theme="light"
+                data-sku="{{ card_product.selected_or_first_available_variant.sku }}"
+                data-no-reviews="hide"
+                data-scroll-to-list="false"
+                data-style-alignment="center"
+                data-font-family="Lato"
+              >
+                <a href="https://www.trustpilot.com/review/cliphair.com" target="_blank" rel="noopener">Trustpilot</a>
+              </div>
             {%- endif -%}
 
             {% if bundle_app %}

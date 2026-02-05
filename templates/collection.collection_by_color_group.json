@@ -47,7 +47,7 @@
     "collection_filter_circle_Giyhbq": {
       "type": "collection-filter-circle",
       "settings": {
-        "filter_type": "colour",
+        "filter_type": "color",
         "heading": "",
         "heading_size": "h1",
         "text_allignment": "left",

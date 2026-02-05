@@ -129,7 +129,7 @@
       ],
       "settings": {
         "heading": "Trending",
-        "trending-list": "trending-articles",
+        "trending-list": "",
         "heading_size": "h2",
         "heading_alignment": "center",
         "color_scheme": "accent-2",
@@ -167,7 +167,7 @@
       "type": "main-blog",
       "custom_css": [
         ".card__heading {color: #833c91;}",
-        ".card__inner {--ratio-percent: 100%!important;}"
+        ".card__inner {--ratio-percent: 100% !important;}"
       ],
       "settings": {
         "show_page_title": false,
@@ -188,6 +188,8 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Ethically-Sourced-_White_32345e81-b264-4ed2-9a09-7ac34b332700.svg",
+            "img_url": "",
+            "alt": "",
             "text_label": "<p>Ethically<br>Sourced</p>",
             "link": ""
           }
@@ -196,15 +198,20 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Outstanding-Reviews-_White.svg",
+            "img_url": "",
+            "alt": "",
             "text_label": "<p>Outstanding<br>Reviews</p>",
             "link": "shopify://pages/testimonials"
           }
         },
         "template--15283894157373__c6a82ce6-f9b5-448b-af80-7e17ba7abc7b-logo_image-3": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Cliphair-Rewards-_White.svg",
-            "text_label": "<p>Cliphair<br>Rewards</p>",
+            "img_url": "",
+            "alt": "",
+            "text_label": "<p>Cliphair<br/>Rewards</p>",
             "link": "shopify://pages/rewards"
           }
         },
@@ -212,6 +219,8 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Free-Delivery-_White.svg",
+            "img_url": "",
+            "alt": "",
             "text_label": "<p>Free Delivery<br>& Returns</p>",
             "link": ""
           }
@@ -220,6 +229,8 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Buy-Now-Pay-Later-_White.svg",
+            "img_url": "",
+            "alt": "",
             "text_label": "<p>Buy Now<br>Pay Later</p>",
             "link": ""
           }
@@ -241,10 +252,10 @@
         "heading_size": "h1",
         "introduction": "",
         "text_allignment": "left",
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "swipe_on_desktop": false,
         "color_scheme": "background-collection-titles",
-        "columns_mobile": "3",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "slider_visual": "counter",
         "padding_top": 36,

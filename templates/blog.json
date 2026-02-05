@@ -129,7 +129,7 @@
       ],
       "settings": {
         "heading": "Trending",
-        "trending-list": "",
+        "trending-list": "trending-articles",
         "heading_size": "h2",
         "heading_alignment": "center",
         "color_scheme": "accent-2",
